@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ucehueje.github.io/AHd/sitemap_index.txt
+Sitemap: https://ucehueje.github.io/OyX/sitemap_index.txt
+Sitemap: https://ucehueje.github.io/oFZ/sitemap_index.txt
+Sitemap: https://ucehueje.github.io/qcy/sitemap_index.txt
